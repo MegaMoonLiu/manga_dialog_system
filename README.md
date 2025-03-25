@@ -23,5 +23,6 @@
 <a href="https://arxiv.org/abs/2401.10224">Manga109</a>
 <p>利用するアノテーション付きマンガ画像データセット。</p>
 
-<p>Manga ocr</p>
-<p>セリフの抽出</p>
+<a href="https://github.com/kha-white/manga-ocr">Manga ocr</a>
+<p>セリフの識別と抽出</p>
+
