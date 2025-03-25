@@ -4,10 +4,10 @@
 ### 現在やったこと
 <p>漫画からキャラクターとコマの抽出</p>
 <p>キャラクターの分類</p>
-<img src="/page.png">
+<img src="/result/page.png">
 
 
-<a href="/transcript.txt">セリフの識別と抽出</a>
+<a href="/result//transcript.txt">セリフの識別と抽出</a>
 
 ### これからやること
 <p>セリフの評価</p>
