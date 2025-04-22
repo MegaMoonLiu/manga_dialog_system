@@ -6,7 +6,7 @@
 ### 現在やったこと
 -  漫画からキャラクターとコマの抽出
 -  キャラクターの分類
-<img src="/result/page.png">
+<img src="/Example/page.png">
 
 
 -  セリフの識別と抽出
