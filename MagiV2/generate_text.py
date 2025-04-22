@@ -4,8 +4,8 @@ import re
 from manga_ocr import MangaOcr
 
 mocr = MangaOcr()
-image_folder_path = "/export/users/liu/Manga_Whisperer/crops_output/"
-text_path = "/export/users/liu/Manga_Whisperer/dialogue/"
+image_folder_path = "/Manga_Whisperer/crops_output/"
+text_path = "/Manga_Whisperer/dialogue/"
 
 
 files = sorted(
