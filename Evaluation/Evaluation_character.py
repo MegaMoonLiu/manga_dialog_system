@@ -5,13 +5,11 @@ import numpy as np
 
 
 # 标记了对话顺序的dialog 文件
-dialog_file_path = "/export/users/liu/datasets/Manga109Dialog/"
+dialog_file_path = "/datasets/Manga109Dialog/"
 # 通过magiv2生成的文件
-result_character_path = "/export/users/liu/Result/character/"
+result_character_path = "/Result/character/"
 # 原始的标注文件
-evaluation_file_path = (
-    "/export/users/liu/Manga109_released_2023_12_07/annotations.v2018.05.31/"
-)
+evaluation_file_path = "/Manga109_released_2023_12_07/annotations.v2018.05.31/"
 
 
 # 获得某一id_type的所有id
