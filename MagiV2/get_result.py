@@ -2,8 +2,8 @@ import json
 import os
 import re
 
-json_path = "/export/users/liu/Manga_Whisperer/"
-text_path = "/export/users/liu/Manga_Whisperer/dialogue/"
+json_path = "/Manga_Whisperer/"
+text_path = "/Manga_Whisperer/dialogue/"
 
 page = 0
 
