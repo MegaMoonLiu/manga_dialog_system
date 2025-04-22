@@ -11,9 +11,9 @@ from janome.tokenizer import Tokenizer
 import xml.etree.ElementTree as ET
 
 
-evaluation_file_path = "/export/users/liu/EvaluationDataset/"
-result_text_path = "/export/users/liu/Result/text/"
-dialog_xml_path = "/export/users/liu/datasets/Manga109Dialog/"
+evaluation_file_path = "/EvaluationDataset/"
+result_text_path = "/Result/text/"
+dialog_xml_path = "/datasets/Manga109Dialog/"
 manga_name_list = []
 
 
