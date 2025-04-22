@@ -1,0 +1,952 @@
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/scipy/__init__.py:138: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.5)
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion} is required for this version of "
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+/export/users/liu/EvaluationDataset/Belmondo
+/export/users/liu/Result/Belmondo
+BLEU：0.30
+BERT：0.87
+Traceback (most recent call last):
+  File "/export/users/liu/Evaluation/Evaluation_text.py", line 139, in <module>
+    sum_BERT_score = sum_BERT_score + BERT_score
+NameError: name 'sum_BERT_score' is not defined
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/scipy/__init__.py:138: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.5)
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion} is required for this version of "
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+[nltk_data] Downloading package punkt to /home/liu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/liu/anaconda3/envs/yolov10/lib/python3.9/site-packages/huggingface_hub/file_download.py:896: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'BertJapaneseTokenizer'. 
+The class this function is called from is 'BertTokenizer'.
+/export/users/liu/EvaluationDataset/Belmondo
+/export/users/liu/Result/Belmondo
+BLEU：0.30
+BERT：0.87
+/export/users/liu/EvaluationDataset/BEMADER_P
+/export/users/liu/Result/BEMADER_P
+BLEU：0.30
+BERT：0.87
+/export/users/liu/EvaluationDataset/ToutaMairimasu
+/export/users/liu/Result/ToutaMairimasu
+BLEU：0.34
+BERT：0.87
+/export/users/liu/EvaluationDataset/SyabondamaKieta
+/export/users/liu/Result/SyabondamaKieta
+BLEU：0.39
+BERT：0.87
+/export/users/liu/EvaluationDataset/ARMS
+/export/users/liu/Result/ARMS
+BLEU：0.41
+BERT：0.87
+/export/users/liu/EvaluationDataset/MoeruOnisan_vol19
+/export/users/liu/Result/MoeruOnisan_vol19
+BLEU：0.40
+BERT：0.87
+/export/users/liu/EvaluationDataset/YoumaKourin
+/export/users/liu/Result/YoumaKourin
+BLEU：0.43
+BERT：0.87
+/export/users/liu/EvaluationDataset/MadouTaiga
+/export/users/liu/Result/MadouTaiga
+BLEU：0.43
+BERT：0.87
+/export/users/liu/EvaluationDataset/AisazuNihaIrarenai
+/export/users/liu/Result/AisazuNihaIrarenai
+BLEU：0.42
+BERT：0.87
+/export/users/liu/EvaluationDataset/TetsuSan
+/export/users/liu/Result/TetsuSan
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/UchuKigekiM774
+/export/users/liu/Result/UchuKigekiM774
+BLEU：0.47
+BERT：0.87
+/export/users/liu/EvaluationDataset/That'sIzumiko
+/export/users/liu/Result/That'sIzumiko
+BLEU：0.46
+BERT：0.87
+/export/users/liu/EvaluationDataset/WarewareHaOniDearu
+/export/users/liu/Result/WarewareHaOniDearu
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/MukoukizuNoChonbo
+/export/users/liu/Result/MukoukizuNoChonbo
+BLEU：0.46
+BERT：0.87
+/export/users/liu/EvaluationDataset/BokuHaSitatakaKun
+/export/users/liu/Result/BokuHaSitatakaKun
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/EverydayOsakanaChan
+/export/users/liu/Result/EverydayOsakanaChan
+BLEU：0.43
+BERT：0.87
+/export/users/liu/EvaluationDataset/GarakutayaManta
+/export/users/liu/Result/GarakutayaManta
+BLEU：0.42
+BERT：0.87
+/export/users/liu/EvaluationDataset/UchiNoNyan'sDiary
+/export/users/liu/Result/UchiNoNyan'sDiary
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/TapkunNoTanteisitsu
+/export/users/liu/Result/TapkunNoTanteisitsu
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/GinNoChimera
+/export/users/liu/Result/GinNoChimera
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/TotteokiNoABC
+/export/users/liu/Result/TotteokiNoABC
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/YamatoNoHane
+/export/users/liu/Result/YamatoNoHane
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/ByebyeC-BOY
+/export/users/liu/Result/ByebyeC-BOY
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/EienNoWith
+/export/users/liu/Result/EienNoWith
+BLEU：0.42
+BERT：0.87
+/export/users/liu/EvaluationDataset/MeteoSanStrikeDesu
+/export/users/liu/Result/MeteoSanStrikeDesu
+BLEU：0.42
+BERT：0.87
+/export/users/liu/EvaluationDataset/TsubasaNoKioku
+/export/users/liu/Result/TsubasaNoKioku
+BLEU：0.43
+BERT：0.87
+/export/users/liu/EvaluationDataset/YumeNoKayoiji
+/export/users/liu/Result/YumeNoKayoiji
+BLEU：0.43
+BERT：0.87
+/export/users/liu/EvaluationDataset/MisutenaideDaisy
+/export/users/liu/Result/MisutenaideDaisy
+BLEU：0.42
+BERT：0.87
+/export/users/liu/EvaluationDataset/TennenSenshiG
+/export/users/liu/Result/TennenSenshiG
+BLEU：0.42
+BERT：0.87
+/export/users/liu/EvaluationDataset/DollGun
+/export/users/liu/Result/DollGun
+BLEU：0.41
+BERT：0.87
+/export/users/liu/EvaluationDataset/MemorySeijin
+/export/users/liu/Result/MemorySeijin
+BLEU：0.42
+BERT：0.87
+/export/users/liu/EvaluationDataset/UltraEleven
+/export/users/liu/Result/UltraEleven
+BLEU：0.42
+BERT：0.87
+/export/users/liu/EvaluationDataset/AppareKappore
+/export/users/liu/Result/AppareKappore
+BLEU：0.42
+BERT：0.87
+/export/users/liu/EvaluationDataset/Count3DeKimeteAgeru
+/export/users/liu/Result/Count3DeKimeteAgeru
+BLEU：0.43
+BERT：0.87
+/export/users/liu/EvaluationDataset/TaiyouNiSmash
+/export/users/liu/Result/TaiyouNiSmash
+BLEU：0.43
+BERT：0.87
+/export/users/liu/EvaluationDataset/MomoyamaHaikagura
+/export/users/liu/Result/MomoyamaHaikagura
+BLEU：0.43
+BERT：0.87
+/export/users/liu/EvaluationDataset/UnbalanceTokyo
+/export/users/liu/Result/UnbalanceTokyo
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/Akuhamu
+/export/users/liu/Result/Akuhamu
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/TensiNoHaneToAkumaNoShippo
+/export/users/liu/Result/TensiNoHaneToAkumaNoShippo
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/MAD_STONE
+/export/users/liu/Result/MAD_STONE
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/ShimatteIkouze_vol26
+/export/users/liu/Result/ShimatteIkouze_vol26
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/BakuretsuKungFuGirl
+/export/users/liu/Result/BakuretsuKungFuGirl
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/YumeiroCooking
+/export/users/liu/Result/YumeiroCooking
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/MoeruOnisan_vol01
+/export/users/liu/Result/MoeruOnisan_vol01
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/DualJustice
+/export/users/liu/Result/DualJustice
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/GakuenNoise
+/export/users/liu/Result/GakuenNoise
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/YasasiiAkuma
+/export/users/liu/Result/YasasiiAkuma
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/Arisa
+/export/users/liu/Result/Arisa
+BLEU：0.45
+BERT：0.87
+/export/users/liu/EvaluationDataset/AosugiruHaru
+/export/users/liu/Result/AosugiruHaru
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/MagicianLoad
+/export/users/liu/Result/MagicianLoad
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/Hamlet
+/export/users/liu/Result/Hamlet
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/YouchienBoueigumi
+/export/users/liu/Result/YouchienBoueigumi
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/Donburakokko
+/export/users/liu/Result/Donburakokko
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/BurariTessenTorimonocho
+/export/users/liu/Result/BurariTessenTorimonocho
+BLEU：0.43
+BERT：0.87
+/export/users/liu/EvaluationDataset/MagicStarGakuin
+/export/users/liu/Result/MagicStarGakuin
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/TasogareTsushin
+/export/users/liu/Result/TasogareTsushin
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/AkkeraKanjinchou
+/export/users/liu/Result/AkkeraKanjinchou
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/MutekiBoukenSyakuma
+/export/users/liu/Result/MutekiBoukenSyakuma
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/SonokiDeABC
+/export/users/liu/Result/SonokiDeABC
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/TouyouKidan
+/export/users/liu/Result/TouyouKidan
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/MariaSamaNihaNaisyo
+/export/users/liu/Result/MariaSamaNihaNaisyo
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/MayaNoAkaiKutsu
+/export/users/liu/Result/MayaNoAkaiKutsu
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/MiraiSan
+/export/users/liu/Result/MiraiSan
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/EvaLady
+/export/users/liu/Result/EvaLady
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/GOOD_KISS_Ver2
+/export/users/liu/Result/GOOD_KISS_Ver2
+BLEU：0.44
+BERT：0.87
+/export/users/liu/EvaluationDataset/YukiNoFuruMachi
+/export/users/liu/Result/YukiNoFuruMachi
+BLEU：0.44
+BERT：0.87
+平均BLEU：0.43
+平均BERT：0.87
