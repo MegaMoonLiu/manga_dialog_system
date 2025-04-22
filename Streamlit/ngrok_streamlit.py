@@ -1,7 +1,7 @@
 from pyngrok import ngrok
 import subprocess
 
-ngrok.set_auth_token("2jaoftxvXUA633dhMHbAKdwcryR_7Xq3zpxtahEWckHAYzVz")
+ngrok.set_auth_token("")
 
 # 启动 Streamlit 应用
 subprocess.Popen(["streamlit", "run", "app.py"])
