@@ -41,10 +41,15 @@
   - 元のdataにある目標キャラクターの数：689
   - 正解率：0.65
  
+### Streamlitを利用してUIがある対話システムの構築
+<p>対話したいキャラクターの画像と名前を入力すると、会話が始まる</p>
+
+<img src="https://github.com/MegaMoonLiu/manga_dialog_system/blob/main/Example/dialog_systeam_UI_1.png" width="50%" height="50%"><img src="https://github.com/MegaMoonLiu/manga_dialog_system/blob/main/Example/dialog_systeam_UI_2.png" width="50%" height="50%">
+
+ 
 ### これからやること
 - 全体のキャラクターのマッチ度
 - 生成した対話の評価
-- Streamlitを利用してUIがある対話システムの構築
 
 
 # 関連研究
