@@ -57,7 +57,7 @@
 <p>漫画画像からオブジェクトの検出と話者特定、発話の順番の特定を行う</p>
 
 
-<a href="https://arxiv.org/abs/2401.10224">Ma`nga109</a>
+<a href="https://arxiv.org/abs/2401.10224">Manga109</a>
 <p>利用するアノテーション付きマンガ画像データセット。</p>
 
 <a href="https://github.com/kha-white/manga-ocr">Manga ocr</a>
