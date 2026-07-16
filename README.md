@@ -77,18 +77,13 @@
 
 
 # 関連研究
-- <a href="https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov10-object-detection-on-custom-dataset.ipynb#scrollTo=SaKTSzSWnG7s">The Manga Whisperer: Automatically Generating Transcriptions for Comics </a>
-  - <p>漫画画像からオブジェクトの検出と話者特定、発話の順番の特定を行う</p>
-
-
-- <a href="https://arxiv.org/abs/2401.10224">Manga109</a>
-  - <p>利用するアノテーション付きマンガ画像データセット。</p>
-
-- <a href="https://github.com/kha-white/manga-ocr">Manga ocr</a>
-  - <p>セリフの識別と抽出</p>
-
-- <a href="https://github.com/manga109/public-annotations">Manga109Dialog</a>
-  - <p>発話の順番付きデータセット</p>
-
-- <a href="https://arxiv.org/abs/2408.00298">Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names</a>
-  - <p>評価指標を参照した</p>
+- [The Manga Whisperer: Automatically Generating Transcriptions for Comics](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov10-object-detection-on-custom-dataset.ipynb#scrollTo=SaKTSzSWnG7s)  
+漫画画像からオブジェクトの検出と話者特定、発話の順番の特定を行う
+- [Manga109](https://arxiv.org/abs/2401.10224)  
+利用するアノテーション付きマンガ画像データセット
+- [Manga ocr](https://github.com/kha-white/manga-ocr)  
+セリフの識別と抽出
+- [Manga109Dialog](https://github.com/manga109/public-annotations)  
+発話の順番付きデータセット
+- [Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names](https://arxiv.org/abs/2408.00298)  
+評価指標を参照した
