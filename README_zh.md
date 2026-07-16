@@ -1,4 +1,4 @@
-# 漫画画像からの対話システム
+# 基于漫画图像的对话系统
 
 <p align="center">
   <a href="README.md"><img alt="日本語" height="20" src="https://img.shields.io/badge/日本語-CDCFD4"></a>&nbsp;
