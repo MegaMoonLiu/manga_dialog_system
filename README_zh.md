@@ -76,18 +76,13 @@
 
 
 # 相关研究
-- <a href="https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov10-object-detection-on-custom-dataset.ipynb#scrollTo=SaKTSzSWnG7s">The Manga Whisperer: Automatically Generating Transcriptions for Comics </a>
-  - <p>从漫画图像中进行目标检测、对说话者进行识别，并确定说话顺序</p>
-
-
-- <a href="https://arxiv.org/abs/2401.10224">Manga109</a>
-  - <p>所使用的已标注的漫画图像数据集</p>
-
-- <a href="https://github.com/kha-white/manga-ocr">Manga ocr</a>
-  - <p>台词的识别与提取</p>
-
-- <a href="https://github.com/manga109/public-annotations">Manga109Dialog</a>
-  - <p>带有说话顺序的数据集</p>
-
-- <a href="https://arxiv.org/abs/2408.00298">Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names</a>
-  - <p>所参考的评价指标</p>
+- [The Manga Whisperer: Automatically Generating Transcriptions for Comics](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov10-object-detection-on-custom-dataset.ipynb#scrollTo=SaKTSzSWnG7s)  
+从漫画图像中进行目标检测、对说话者进行识别，并确定说话顺序
+- [Manga109](https://arxiv.org/abs/2401.10224)  
+所使用的已标注的漫画图像数据集
+- [Manga ocr](https://github.com/kha-white/manga-ocr)  
+台词的识别与提取
+- [Manga109Dialog](https://github.com/manga109/public-annotations)  
+带有说话顺序的数据集
+- [Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names](https://arxiv.org/abs/2408.00298)  
+所参考的评价指标
