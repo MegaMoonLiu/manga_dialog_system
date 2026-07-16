@@ -1,7 +1,9 @@
 # 漫画画像からの対話システム
 
-### 言語 
-**[中文](README_zh.md), [日本語](README.md).**
+<p align="center">
+  <a href="README.md"><img alt="日本語" height="20" src="https://img.shields.io/badge/日本語-BCDCF7"></a>&nbsp;
+  <a href="README_zh.md"><img alt="简体中文" height="20" src="https://img.shields.io/badge/简体中文-CDCFD4"></a>&nbsp;
+</p>
 
 
 <p>現在の研究では、漫画に対話の内容やテキストボックス、キャラクターの識別に注目している。</p>
